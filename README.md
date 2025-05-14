@@ -23,7 +23,8 @@
 
 <br/>
 
-
+### 其他
+[使用指令快速批量删除 github 项目](src/quickly-delete-github-project.md)
 
 ## 其他系列
 * [面试](https://github.com/lanlangmozhu/interview)
